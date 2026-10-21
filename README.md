@@ -1,0 +1,1 @@
+# SFS1.6ManagerConfigs
