@@ -5,6 +5,6 @@ Each thing on the board follows this format (i think)
 ```json
 "Header": {
   "text": "message",
-  "status": "Warning, Error or Information"
+  "status": "warning, error or info"
 }
 ```
